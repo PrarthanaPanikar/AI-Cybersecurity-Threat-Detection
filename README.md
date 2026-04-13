@@ -179,5 +179,4 @@ To land internships, your Git history must look professional.
 | Item | Status | Action |
 | --- | --- | --- |
 | Confusion Matrix Plot | Required | Upload `images/confusion_matrix.png` to Readme. |
-| Simulation Video (GIF) | Highly Recommended | Use a screen recorder showing your Flask Terminal reacting to `simulation.py`. |
 | Evaluation Metrics | Required | Post "Accuracy: 99%" clearly inside the repository overview. |
